@@ -41,7 +41,7 @@
 # ✅ Kết luận
 * Dự án là minh chứng cho việc ứng dụng thành công mô hình học sâu **YOLOv8** vào một bài toán thực tế, với tiềm năng triển khai thực tiễn cao. Các kỹ năng về **deep learning, computer vision, xử lý video, deployment** đều được thể hiện rõ ràng.
 ### 🔗 Liên kết
-Chạy [Notebook Colab ](Hethonggiamsatxe.ipynb) (Hethonggiamsatxe.ipynb)
+Chạy [Notebook Colab ](Hethonggiamsatgiaothong.ipynb) (Hethonggiamsatxe.ipynb)
 ### 📷 Demo kết quả
                   Class     Images  Instances      Box(P        R       mAP50   mAP50-95)
                   all         705        7503     0.862      0.783       0.87      0.651
